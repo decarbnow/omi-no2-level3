@@ -10,9 +10,7 @@ Download and produce yearly averages from daily OMI/Aura NO2 Column L3 Global Gr
 
 2. Create "./base/auth.txt" (set authUser, authPassword).
 
-3. Get link list from NASA GES DISC and copy it to "./tmp".
-
-4. Run files in "./data" in order of their file name.
+3. Run files in "./data" in order of their file name.
 
 
 # Data Source
