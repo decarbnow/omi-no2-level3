@@ -1,6 +1,6 @@
-# OMI NO2 Level 3 Averages
+# OMI NO2 Level 3 Summer Averages
 
-Download and produce yearly averages from daily OMI/Aura NO2 Column L3 Global Gridded data.
+Download and produce yearly summer averages from daily OMI/Aura NO2 Column L3 Global Gridded data.
 
 ![Ten year NO2 summer averages (08-18) above parts of Europe.](https://sa-2019.s3.amazonaws.com/media/images/europe.2e16d0ba.fill-1440x600.png)
 
